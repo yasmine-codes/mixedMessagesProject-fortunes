@@ -1,5 +1,3 @@
-Script
-
 // This is a fortune-telling generator. This script will choose a random element from three separate arrays to generate fortune messages.
 
 const generateRandomNumber = num => {
